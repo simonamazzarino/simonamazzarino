@@ -5,4 +5,4 @@
 - 🎙  I'm currently speaking about **Synthetic Data Generation**, **RAG-Systems**, **LLMs** and **Generative AI**.
 - 👫 I’m looking to collaborate on **Computational Semiotics projects**.
 - 🏗  I built an open-source library called **nerpii** for Named Entity Recognition for PIIs.
-- 📫 How to reach me: **simona@clearbox.ai** or [https://www.linkedin.com/in/simona-mazzarino-3ba7b7225/].
+- 📫 How to reach me: **simona@clearbox.ai** or on Linkedin[https://www.linkedin.com/in/simona-mazzarino-3ba7b7225/].
