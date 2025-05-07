@@ -9,7 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Computational Semiotics projects**
 
-- 📫 How to reach me **simona@clearbox.ai**
+- 🏗 I developed an open-source library called **nerpii** for Named Entity Recognition for PIIs.
+
+- 📫 How to reach me **simona@clearbox.ai**, [Linkedin](https://www.linkedin.com/in/simona-mazzarino-3ba7b7225/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
