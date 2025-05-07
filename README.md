@@ -1,4 +1,4 @@
-## Hi there! I'm Simona and I'm a Data Scientist
+## Hi there! 
 
 - 🔭 I’m currently working on **Generative AI** and **Synthetic Data Generation** at **Clearbox AI**.
 - 🌱 I’m currently learning more about **Agents** and its applications in real-world projects.
