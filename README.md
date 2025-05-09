@@ -7,7 +7,7 @@
 
 - 🎙 I'm currently speaking about **Synthetic Data Generation, RAG-Systems, LLMs and Generative AI.**
 
-- 👯 I’m looking to collaborate on **Computational Semiotics projects**
+- 👯 I’m looking to collaborate on **Computational Semiotics projects**.
 
 - 🏗 I developed an open-source library called **nerpii** for Named Entity Recognition for PIIs.
 
